@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Freecell2-ElectricBoogaloo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Freecell2_ElectricBoogaloo_jar</output-path>
+    <root id="archive" name="Freecell2-ElectricBoogaloo.jar">
+      <element id="module-output" name="Freecell2-ElectricBoogaloo" />
+    </root>
+  </artifact>
+</component>
